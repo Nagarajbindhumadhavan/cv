@@ -1,0 +1,27 @@
+<html>
+    
+        <title> Nagaraj personal website </title> 
+        <body> 
+          <img src="images/Nagaraj B.jpg">
+            <h1>Nagaraj Bindhumadhavan </h1>
+              <p> <em>I am a web developer and i love tea.I love to read books.</em></p>
+              <p>I have  intersed to learn new thing so i can improve my skills day by day.</p>
+            
+       </body>
+       <hr>
+     <h3><strong>Educations</strong></h3>
+     <ul>
+       
+         <li>I done my both ug and Master(MCA) in Gurunank college in chennai.</li>
+         <li>I completed Web development courses.</li>
+         <li>I have a 2 years experience as web developer in Amazon</li>
+     </ul>
+    <h3>My hobbies</h3>
+        <ol type="i">
+          <li><a href="https://www.facebook.com/photo.php?fbid=1864067580496706&set=pb.100006804456509.-2207520000..&type=3">Riding bikes</a></li>
+          <li>Chill out with friends</li>
+        </ol>
+        <h3> Contacts Details</h3>
+         <a href="contacts.html">ContactME</a>
+      
+</html>
